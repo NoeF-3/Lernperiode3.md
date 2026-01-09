@@ -15,10 +15,8 @@ Ich möchte Noten beibehalten, Spielprogrammierkenntnisse erhöhen und KI-Konsum
 
 ## Planung 17.10.2025
 
-- [ ] Ein neues Projekt finden
-      Ich werde einen Taschenrechner auf Visual Studio mit Windows Forms erstellen
-- [ ] Mit der UI und den Tools herumexperimentieren und mir ein Grundwissen/-überblick verschaffen
-- [ ] Haupteigenschaften hinzufügen (Übersichtlichkeit, Additionen, Subtraktionen, Divisionen und Multiplikationen)
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen.
 
 ## Tagesreflexion
-Es lief heute gut. Ich konnte die gestellten Aufträge erledigen und dazu konnte ich noch Kommastellzahlen und einen "clear" Knopf hinzufügen
+
