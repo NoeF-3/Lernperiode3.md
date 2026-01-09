@@ -13,10 +13,19 @@ Ich möchte im Bereich Spielprogrammierung (C#) ein bisschen vertraut werden und
 ### Generelle Ziele
 Ich möchte Noten beibehalten, Spielprogrammierkenntnisse erhöhen und KI-Konsum vermindern.
 
-## Planung 17.10.2025
+## Planung 09.01.2025
 
 - [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
 - [ ] Einfachste Interaktionen mit Objekten einfügen.
 
 ## Tagesreflexion
+Ich habe mich nicht stark mit den Zielen befasst, sondern mit einer Funktion, bei der die Kamera dem Charakter folgt. Somit kann ich nun eine grössere Welt machen, und die Interaktionen einfügen. Ich arbeite an einer Kiste, die sich für ein Kristall öffnen lassen soll. Es geht noch nicht und ich werde es nächstes mal fertig bringen. Ich konnte heute gut arbeiten und liess mich viel weniger ablenken als normalerweise.
+
+## Planung 16.01.2025
+
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen.
+
+## Tagesreflexion
+
 
