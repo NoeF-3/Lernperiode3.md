@@ -27,5 +27,11 @@ Ich habe mich nicht stark mit den Zielen befasst, sondern mit einer Funktion, be
 - [ ] Einfachste Interaktionen mit Objekten einfügen
 
 ## Tagesreflexion
+Ich konnte heute mehr Teile der Karte hinzufügen und habe eine Figur designed, die zum interagieren gedacht ist. Die Kiste und die Figur funktioneren bis jetzt noch nicht. Ich habe schon an ihnen gearbeitet, jedoch funktioniert es bis jetzt nicht. Ich konnte ganz okay arbeiten und werde nächstes Mal die Objekte zum funktionieren bringen.
 
+## Planung xx.02.2025
 
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen
+
+## Tagesreflexion
