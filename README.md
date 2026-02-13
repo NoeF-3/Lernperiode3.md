@@ -29,7 +29,15 @@ Ich habe mich nicht stark mit den Zielen befasst, sondern mit einer Funktion, be
 ## Tagesreflexion
 Ich konnte heute mehr Teile der Karte hinzufügen und habe eine Figur designed, die zum interagieren gedacht ist. Die Kiste und die Figur funktioneren bis jetzt noch nicht. Ich habe schon an ihnen gearbeitet, jedoch funktioniert es bis jetzt nicht. Ich konnte ganz okay arbeiten und werde nächstes Mal die Objekte zum funktionieren bringen.
 
-## Planung xx.02.2025
+## Planung 13.02.2025
+
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen
+
+## Tagesreflexion
+Ich konzentrierte mich heute nicht auf das Projekt, sondern an einem Projekt, dass wir an den Lektionen vom Mittwoch bearbeiten. Gewiss löste ich heute Aufgaben von diesem Modul. Ich war hauptsächlich an der Aufgabe 1722 (Modul 117) dran. Ich habe mich heute nicht sehr angestrengt und einen gang zurückgelegt. Die Aufgaben im Modul, die ich mir gesetzt habe, habe ich dennoch gelöst.
+
+## Planung 20.02.2025
 
 - [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
 - [ ] Einfachste Interaktionen mit Objekten einfügen
