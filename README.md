@@ -43,3 +43,12 @@ Ich konzentrierte mich heute nicht auf das Projekt, sondern an einem Projekt, da
 - [ ] Einfachste Interaktionen mit Objekten einfügen
 
 ## Tagesreflexion
+
+Ich konzentrierte mich heute nicht auf das Projekt, sondern an einem Projekt, dass wir an den Lektionen vom Mittwoch bearbeiten. Ich löste heute Aufgaben von diesem Modul. Dazu arbeitete ich mit meiner Gruppe am Projekt (Netzwerklabor M117) und dazu auch and der LB des Moduls 164. Ich kam ganz okay voran.
+
+## Planung 27.02.2025
+
+- [ ] Einführung in das Spiel machen (Textboxen mit Monologen)
+- [ ] Einfachste Interaktionen mit Objekten einfügen
+
+## Tagesreflexion
