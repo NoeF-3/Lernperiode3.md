@@ -56,5 +56,15 @@ Ich habe mich dazu entschieden, mein Spiel vorläufig abzubrechen und nun arbeit
 
 ## Planung 06.03.2026
 
-- [ ] Die Stadt weiterbauet, evt. fertig mit der Stadt werden
-- [ ] Funktionen wie z.B. das Intro des Spiels entwickeln
+- [x] Die Stadt weiterbauen, evt. fertig mit der Stadt werden
+- [x] Funktionen wie z.B. das Intro des Spiels entwickeln
+
+## Tagesreflexion
+Wir haben die Stadt weitergebaut: Die Strassen (Den Umriss) konnten wir beenden und wir müssen nun noch mehr dekorieren und Gebäude einfügen. Ich konnte heute gut arbeiten und ich hatte auch so gut wie keine Probleme beim Prozess. Wir fingen mit dem Intro an, jetzt müssen wir noch eine Dialogsequenz erstellen.
+
+## Planung 13.03.2026
+
+- [ ] Die Stadt weiterbauen
+- [ ] Das Intro beenden
+
+## Tagesreflexion
