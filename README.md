@@ -68,3 +68,11 @@ Wir haben die Stadt weitergebaut: Die Strassen (Den Umriss) konnten wir beenden 
 - [ ] Das Intro beenden
 
 ## Tagesreflexion
+Wir haben uns heute nur ein wenig mit Roblox studio befasst. Stattdessen arbeiteten wir am Modul 106. Ich arbeitete ziemlich gut. Ich kam gut weiter.
+
+## Planung 20.03.2026
+
+- [ ] Die Stadt weiterbauen
+- [ ] Das Intro beenden
+
+## Tagesreflexion
