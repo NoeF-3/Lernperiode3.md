@@ -72,7 +72,15 @@ Wir haben uns heute nur ein wenig mit Roblox studio befasst. Stattdessen arbeite
 
 ## Planung 20.03.2026
 
+- [x] Die Stadt weiterbauen
+- [x] Das Intro beenden
+
+## Tagesreflexion
+Die Kullise für das intro ist gestellt. Jetzt müssen wir noch ein Dialogskript erstellen. Die Stadt wurde heute nicht gross weitergebaut, der Hauptfokus war auf dem Intro. Ich arbeitete heute durchschnittlich. Nicht superschnell, aber auch nicht kontra-produktiv. 
+
+## Planung 20.03.2026
+
 - [ ] Die Stadt weiterbauen
-- [ ] Das Intro beenden
+- [ ] Das Introskript schreiben
 
 ## Tagesreflexion
