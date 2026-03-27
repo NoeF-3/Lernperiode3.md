@@ -80,6 +80,14 @@ Die Kullise für das intro ist gestellt. Jetzt müssen wir noch ein Dialogskript
 
 ## Planung 27.03.2026
 
+- [x] Die Stadt weiterbauen
+- [ ] Das Introskript schreiben
+
+## Tagesreflexion
+Ich arbeitete heute alleine ein bisschen an der Stadt weiter, bzw. modellierte ich ein wenig mehr und fügte Details hinzu. Die anderen Arbeiteten an dem Modul 106, deswegen machte ich mich heute noch nicht an das Introskript ran. Ich arbeitete heute eher langsam, aber ich lenkte mich nicht gross ab, deswegen was mein Fortschritt dennoch ersichtlich.
+
+## Planung 01.05.2026
+
 - [ ] Die Stadt weiterbauen
 - [ ] Das Introskript schreiben
 
